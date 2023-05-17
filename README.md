@@ -18,3 +18,5 @@ allprojects {
 	        implementation 'com.github.blackhole23dev:zetoast:Tag'
 	}
   ```
+  
+  [![](https://jitpack.io/v/blackhole23dev/zetoast.svg)](https://jitpack.io/#blackhole23dev/zetoast)
