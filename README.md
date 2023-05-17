@@ -20,3 +20,6 @@ allprojects {
   ```
   
   [![](https://jitpack.io/v/blackhole23dev/zetoast.svg)](https://jitpack.io/#blackhole23dev/zetoast)
+  
+  
+  [Apache License](LICENSE)
