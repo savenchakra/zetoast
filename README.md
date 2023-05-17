@@ -13,6 +13,7 @@ allprojects {
   > Step 2. Add the dependency
   
   ```dependencies {
+  
 	        implementation 'com.github.blackhole23dev:zetoast:Tag'
 	}
   ```
