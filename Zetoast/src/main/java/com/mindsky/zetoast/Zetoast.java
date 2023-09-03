@@ -4,7 +4,15 @@ import android.content.Context;
 import android.widget.Toast;
 
 public class Zetoast {
-    public static void singletoast (Context context, String smg){
+    public static void singletoast(Context context, String smg) {
         Toast.makeText(context, smg, Toast.LENGTH_SHORT).show();
+    }
+
+    public static void shortToast(Context context, String msg) {
+        Toast.makeText(context, msg, Toast.LENGTH_SHORT).show();
+    }
+
+    public static void longToast(Context context, String message) {
+        Toast.makeText(context, message, Toast.LENGTH_LONG).show();
     }
 }
